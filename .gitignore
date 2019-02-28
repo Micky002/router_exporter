@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# visual code stuff
+.vscode
+
+# python virtual env
+testing-api
